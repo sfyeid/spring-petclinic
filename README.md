@@ -166,3 +166,4 @@ New Change 2 in branch1
 New Change 3 in branch1
 Extra Change 1 in new clone
 Extra Change 2 in new clone
+Extra Change 3 in new clone
